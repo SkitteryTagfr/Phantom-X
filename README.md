@@ -4,6 +4,11 @@
 Phantom-X is a script for cheating in Phantom Focres.
 The Nr.1 Phantom Forces script✅
 
+# Status
+| Status | Description |
+| :------- | :---------- |
+| Working✅ | The script is currently working.|
+
 ## Features
 
 | Feature            | Description                                    | Keybind   |
@@ -20,3 +25,12 @@ To execute the script put this in your Executor:
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkitteryTagfr/Phantom-X/main/main.lua", true))()
 ```
+
+## Credits
+
+Made by Skittery, Alone
+
+# Important Notes
+
+1. Use at your own Risk. This can result in a ban. 
+2. Only for educational Purpose!
